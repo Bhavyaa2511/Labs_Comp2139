@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Debug\\net8.0",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\Models",
+    "\\Views",
+    "\\Views\\Home",
+    "\\Views\\Project"
+  ],
+  "SelectedNode": "\\Views\\Project\\Create.cshtml",
+  "PreviewInSolutionExplorer": false
+}
